@@ -1,4 +1,4 @@
-# Snakw_Water_Gun_game 
+# Snake_Water_Gun_game 
 
 <br>
 
