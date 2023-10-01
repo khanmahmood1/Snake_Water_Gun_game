@@ -27,4 +27,4 @@ This Python project is a fun and educational implementation of the classic Snake
 
 - **Open Source:** This project is open source, which means that anyone can contribute to its development. It's a fantastic opportunity for beginners to get involved in open-source projects and gain experience collaborating with others.
 
-<h3>😊😊😊</h3>
+<h3>Smile 😊😊😊</h3>
